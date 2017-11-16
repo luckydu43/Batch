@@ -70,3 +70,5 @@ Notez que certaines IPs tapent quand même... mais même si elles tapent : leur 
 - cmd.bat
 Vous êtes dans un environnement tellement bridé que le cmd est inaccessible ?
 Pas de problème :-D
+
+- Kill process... ou "comment mettre un high-kick à un process qui ne fait que de se lancer encore et encore sans que vous le vouliez ?"
