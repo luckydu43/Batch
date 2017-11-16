@@ -1,7 +1,4 @@
 # Batch
-List of batchs
-
-Premier commit de mes fichiers .bat développés depuis plusieurs années.
 
 Ces fichiers sont des fichiers .bat, tournant donc sur un environnement Windows.
 Les accès distants ont été testés sur du NTFS. Vu ce que j'utilise, ça devrait marcher aussi avec FAT/FAT32, à voir.
