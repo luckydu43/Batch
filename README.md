@@ -63,3 +63,6 @@ Utilisée ainsi, cette commande dit : "toi qui veux aller à XXX.XXX.XXX.XXX, pa
 OneDrive.exe, explorer.exe, svchost.exe et System sont les processus utilisant les IPs listées dans le fichier. Si vous utilisez OneDrive... bon courage pour retirer les IPs qui ne vous intéressent pas dans la liste !
 Pensez aussi à retirer les IPs que vous utilisez et qui sont dans la liste (serveur, NAS, pc, box, wifi...)
 Notez que certaines IPs tapent quand même... mais même si elles tapent : leur connexion est très réduite.
+
+- stop arriereplan.bat est un outil permettant de détendre Windows. De le rendre plus aimable.
+Ça désactive des services "améliorant l'expérience utilisateur", ça configure l'explorateur Windows, désinstalle OneDrive, ajoute des entrées dans le fichier hosts...
