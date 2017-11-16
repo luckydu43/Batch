@@ -45,11 +45,7 @@ ff02::1:2
 abc:1:4468:6370:4c65:6173:6549:7041
 abc:1:6900:6e00:6700:2d00:7600:6600
 
-##########################################################
-##########################################################
-################## GROSSES EXPLICATIONS ##################
-##########################################################
-##########################################################
+################## GROSSES EXPLICATIONS
 
 Explication de la commande route utilisée de la sorte :
 route permet de définir une passerelle pour une adresse
@@ -70,11 +66,7 @@ Je précise que cette solution n'est pas efficace à 100%, même si 98% est pour
 Donc si vous mettez ce fichier à jour, si vous l'améliorez, ou si vous trouvez une autre astuce : je suis intéressé !
 "Si tu ne sais pas : demande... si tu sais : partage" ;-)
 
-#########################################################
-#########################################################
-###################### REVISIONS ########################
-#########################################################
-#########################################################
+###################### REVISIONS
 
 - V1 : simple listing de 15 adresses IPv4.
 Il fallait copier coller les commandes dans une invite... de commandes. C'est bien, vous suivez ^^
