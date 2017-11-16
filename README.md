@@ -66,3 +66,7 @@ Notez que certaines IPs tapent quand même... mais même si elles tapent : leur 
 
 - stop arriereplan.bat est un outil permettant de détendre Windows. De le rendre plus aimable.
 Ça désactive des services "améliorant l'expérience utilisateur", ça configure l'explorateur Windows, désinstalle OneDrive, ajoute des entrées dans le fichier hosts...
+
+- cmd.bat
+Vous êtes dans un environnement tellement bridé que le cmd est inaccessible ?
+Pas de problème :-D
