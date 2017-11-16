@@ -13,13 +13,15 @@ J'y ai intégré de la sécurité (le nom de l'ordinateur distant doit être dan
 En clair... si ça plante vous le saurez parce que c'est logué dans le log.txt. Et si ça marche vous le saurez aussi ;-)
 En attente d'intégrer une automatisation de la relance (robocopy  n'a pas l'air de renvoyer un code erreur via errorlevel...)
 
+- ScriptRouteV3.bat
+Attention, y a du pavay de texte
+
 ScriptRouteV3 est un utilitaire .bat me permettant d'exclure, via la modification de la table de routage Windows, des IP que j'ai identifiées comme étant des serveurs Microsoft ayant, entre autres je pense, pour but de récupérer l'ensemble des informations "liées à l'amélioration de l'expérience utilisateur" au détriment de sa vie privée. Parce que vu la quantité de données qui partaient, me faites pas croire que c'était que des logs tranquillou :-D
 
 La liste date. Elle a au moins un an. Faudrait voir si elle est encore juste.
 De plus, les nouvelles itérations de Windows ont allégé grandement ce sniffage de données ; la pertinence de ce fichier n'est peut-être plus d'actualité.
 
-- ScriptRouteV3.bat
-Attention, y a du pavay de texte
+################## PETITES EXPLICATIONS
 
 La commande route exige une élévation de droits.
 
