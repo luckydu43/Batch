@@ -62,22 +62,4 @@ Utilisée ainsi, cette commande dit : "toi qui veux aller à XXX.XXX.XXX.XXX, pa
 
 OneDrive.exe, explorer.exe, svchost.exe et System sont les processus utilisant les IPs listées dans le fichier. Si vous utilisez OneDrive... bon courage pour retirer les IPs qui ne vous intéressent pas dans la liste !
 Pensez aussi à retirer les IPs que vous utilisez et qui sont dans la liste (serveur, NAS, pc, box, wifi...)
-
 Notez que certaines IPs tapent quand même... mais même si elles tapent : leur connexion est très réduite.
-
-Je précise que cette solution n'est pas efficace à 100%, même si 98% est pour moi un très bon résultat (ça, c'est la faute aux IPv6 et aux quelques IPv4 non encore déroutées... à vot' bon coeur :-D)
-Donc si vous mettez ce fichier à jour, si vous l'améliorez, ou si vous trouvez une autre astuce : je suis intéressé !
-"Si tu ne sais pas : demande... si tu sais : partage" ;-)
-
-###################### REVISIONS
-
-- V1 : simple listing de 15 adresses IPv4.
-Il fallait copier coller les commandes dans une invite... de commandes. C'est bien, vous suivez ^^
-- V1.1: 30 IPv4 listées
-- V2 : Exécutable à lancer à chaque démarrage du pc.
-- V2.1 : Début de la documentation. 58 IPv4 déroutées. Modification désormais permanente.
-- V2.2 : Doc complète. 71 IPv4 déroutées. Quelques IPv6 ajoutées en commentaire TODO.
-- V3 : Modifs majeures. La liste est déportée dans un fichier txt parcouru par une boucle.
-117 IPv4 déroutées. Oui, ça en fait des serveurs. J'espère pour crosoft que certains serveurs disposent de plusieurs points d'entrée (je pense aux IPs qui se suivent...)
-Ajout de l'UAC et embellissement de l'interface. Doc plus que complète.
-- ? V10.0 : Gestion des IPv6 ? ^^
