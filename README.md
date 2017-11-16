@@ -72,3 +72,6 @@ Vous êtes dans un environnement tellement bridé que le cmd est inaccessible ?
 Pas de problème :-D
 
 - Kill process... ou "comment mettre un high-kick à un process qui ne fait que de se lancer encore et encore sans que vous le vouliez ?"
+
+- stop bits.bat ... c'est un .bat sale. Tout ça pour arrêter les processus liés au Background Intelligent Transfer Service...
+Mais... je vous en fais cadeau, on sait jamais :-D
