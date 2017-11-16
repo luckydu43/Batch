@@ -2,7 +2,8 @@
 
 Ces fichiers sont des fichiers .bat, tournant donc sur un environnement Windows.
 Les accès distants ont été testés sur du NTFS. Vu ce que j'utilise, ça devrait marcher aussi avec FAT/FAT32, à voir.
-Ils n'ont pas été testés pour taper sur du UNIX distant.
+Ils n'ont pas été testés pour taper sur du UNIX distant. Ni sur du FTP
+Enfin... le FTP c'est en cours, la personne qui m'a demandé de l'aide et à qui j'ai fait HardCopy bûche sur ce problème de connexion FTP à l'heure où j'écris ces mots... un commit dans pas longtemps ?
 
 - Sauvegarde incrémentale est un outil batch qu'il est préférable de joindre à une tâche programmée (journalière de par sa configuration actuelle) pour sauvegarder un répertoire placé en local ou sur le réseau (cf la conf utilisée dans HardCopy.bat pour cela) de manière incrémentale : seuls les fichiers modifiés depuis le dernier jour ouvrable (cf %MAXAGE% dans le fichier .bat) sont placés dans un répertoire daté du jour de la copie.
 Cela m'avait été demandé par un webmaster, pour sauvegarder les données de son site web sans tout copier.
