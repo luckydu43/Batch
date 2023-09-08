@@ -1,105 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LayoutManager>
   <Sequence_1 NbCombo="7">
-    <Combo_0 x="0.00" y="50.00" width="25.00" height="50.00"/>
-    <Combo_1 x="0.00" y="50.00" width="33.33" height="50.00"/>
-    <Combo_2 x="0.00" y="50.00" width="41.67" height="50.00"/>
-    <Combo_3 x="0.00" y="50.00" width="50.00" height="50.00"/>
-    <Combo_4 x="0.00" y="50.00" width="58.33" height="50.00"/>
-    <Combo_5 x="0.00" y="50.00" width="66.67" height="50.00"/>
-    <Combo_6 x="0.00" y="50.00" width="75.00" height="50.00"/>
+    <Combo_0 x="0.00" y="50.00" width="25.33" height="50.33"/>
+    <Combo_1 x="0.00" y="50.00" width="33.67" height="50.33"/>
+    <Combo_2 x="0.00" y="50.00" width="42" height="50.33"/>
+    <Combo_3 x="0.00" y="50.00" width="50.33" height="50.33"/>
+    <Combo_4 x="0.00" y="50.00" width="58.67" height="50.33"/>
+    <Combo_5 x="0.00" y="50.00" width="67" height="50.33"/>
+    <Combo_6 x="0.00" y="50.00" width="75.33" height="50.33"/>
   </Sequence_1>
   <Sequence_2 NbCombo="14">
-    <Combo_0 x="41.67" y="50.00" width="17.33" height="50.00"/>
-    <Combo_1 x="33.33" y="50.00" width="17.33" height="50.00"/>
-    <Combo_2 x="49.50" y="50.00" width="17.77" height="50.00"/>
-    <Combo_3 x="25.00" y="50.00" width="25.00" height="50.00"/>
-    <Combo_4 x="50.00" y="50.00" width="25.00" height="50.00"/>
-    <Combo_5 x="33.33" y="50.00" width="25.00" height="50.00"/>
-    <Combo_6 x="41.67" y="50.00" width="25.00" height="50.00"/>
-    <Combo_7 x="33.33" y="50.00" width="33.33" height="50.00"/>
-    <Combo_8 x="25.00" y="50.00" width="33.33" height="50.00"/>
-    <Combo_9 x="41.67" y="50.00" width="33.33" height="50.00"/>
-    <Combo_10 x="25.00" y="50.00" width="41.67" height="50.00"/>
-    <Combo_11 x="33.33" y="50.00" width="41.67" height="50.00"/>
-    <Combo_12 x="25.00" y="50.00" width="50.00" height="50.00"/>
-    <Combo_13 x="0.00" y="50.00" width="100.00" height="50.00"/>
+    <Combo_0 x="41.67" y="50.00" width="17" height="50.33"/>
+    <Combo_1 x="33.33" y="50.00" width="17" height="50.33"/>
+    <Combo_2 x="50" y="50.00" width="17" height="50.33"/>
+    <Combo_3 x="25" y="50.00" width="25.33" height="50.33"/>
+    <Combo_4 x="50" y="50.00" width="25.33" height="50.33"/>
+    <Combo_5 x="33.33" y="50.00" width="25.33" height="50.33"/>
+    <Combo_6 x="41.67" y="50.00" width="25.33" height="50.33"/>
+    <Combo_7 x="33.33" y="50.00" width="33.67" height="50.33"/>
+    <Combo_8 x="25.00" y="50.00" width="33.67" height="50.33"/>
+    <Combo_9 x="41.67" y="50.00" width="33.67" height="50.33"/>
+    <Combo_10 x="25.00" y="50.00" width="42" height="50.33"/>
+    <Combo_11 x="33.33" y="50.00" width="42" height="50.33"/>
+    <Combo_12 x="25.00" y="50.00" width="50.33" height="50.33"/>
+    <Combo_13 x="0.00" y="50.00" width="100.00" height="50.33"/>
   </Sequence_2>
   <Sequence_3 NbCombo="7">
-    <Combo_0 x="75.00" y="50.00" width="25.00" height="50.00"/>
-    <Combo_1 x="66.67" y="50.00" width="33.33" height="50.00"/>
-    <Combo_2 x="58.33" y="50.00" width="41.67" height="50.00"/>
-    <Combo_3 x="50.00" y="50.00" width="50.00" height="50.00"/>
-    <Combo_4 x="41.67" y="50.00" width="58.33" height="50.00"/>
-    <Combo_5 x="33.33" y="50.00" width="66.67" height="50.00"/>
-    <Combo_6 x="25.00" y="50.00" width="75.00" height="50.00"/>
+    <Combo_0 x="75" y="50.00" width="25" height="50.33"/>
+    <Combo_1 x="66.67" y="50.00" width="33.33" height="50.33"/>
+    <Combo_2 x="58.33" y="50.00" width="41.67" height="50.33"/>
+    <Combo_3 x="50" y="50.00" width="50" height="50.33"/>
+    <Combo_4 x="41.67" y="50.00" width="58.33" height="50.33"/>
+    <Combo_5 x="33.33" y="50.00" width="66.67" height="50.33"/>
+    <Combo_6 x="25" y="50.00" width="75" height="50.33"/>
   </Sequence_3>
   <Sequence_4 NbCombo="7">
-    <Combo_0 x="0.00" y="0.00" width="25.00" height="100.00"/>
-    <Combo_1 x="0.00" y="0.00" width="33.33" height="100.00"/>
-    <Combo_2 x="0.00" y="0.00" width="41.67" height="100.00"/>
-    <Combo_3 x="0.00" y="0.00" width="50.00" height="100.00"/>
-    <Combo_4 x="0.00" y="0.00" width="58.33" height="100.00"/>
-    <Combo_5 x="0.00" y="0.00" width="66.67" height="100.00"/>
-    <Combo_6 x="0.00" y="0.00" width="75.00" height="100.00"/>
+    <Combo_0 x="0.00" y="0.00" width="25.33" height="100.33"/>
+    <Combo_1 x="0.00" y="0.00" width="33.67" height="100.33"/>
+    <Combo_2 x="0.00" y="0.00" width="42" height="100.33"/>
+    <Combo_3 x="0.00" y="0.00" width="50.33" height="100.33"/>
+    <Combo_4 x="0.00" y="0.00" width="58.67" height="100.33"/>
+    <Combo_5 x="0.00" y="0.00" width="67" height="100.33"/>
+    <Combo_6 x="0.00" y="0.00" width="75.33" height="100.33"/>
   </Sequence_4>
   <Sequence_5 NbCombo="14">
-    <Combo_0 x="41.33" y="0.00" width="17.33" height="100.00"/>
-    <Combo_1 x="33.33" y="0.00" width="33.33" height="100.00"/>
-    <Combo_2 x="25.00" y="0.00" width="50.00" height="100.00"/>
-    <Combo_3 x="0.00" y="0.00" width="100.00" height="100.00"/>
-    <Combo_4 x="33.33" y="0.00" width="17.33" height="100.00"/>
-    <Combo_5 x="49.50" y="0.00" width="17.77" height="100.00"/>
-    <Combo_6 x="25.00" y="0.00" width="25.00" height="100.00"/>
-    <Combo_7 x="50.00" y="0.00" width="25.00" height="100.00"/>
-    <Combo_8 x="33.33" y="0.00" width="25.00" height="100.00"/>
-    <Combo_9 x="41.67" y="0.00" width="25.00" height="100.00"/>
-    <Combo_10 x="25.00" y="0.00" width="33.33" height="100.00"/>
-    <Combo_11 x="41.67" y="0.00" width="33.33" height="100.00"/>
-    <Combo_12 x="25.00" y="0.00" width="41.67" height="100.00"/>
-    <Combo_13 x="33.33" y="0.00" width="41.67" height="100.00"/>
+    <Combo_0 x="41.67" y="0.00" width="17" height="100.33"/>
+    <Combo_1 x="33.33" y="0.00" width="17" height="100.33"/>
+    <Combo_2 x="50" y="0.00" width="17" height="100.33"/>
+    <Combo_3 x="25" y="0.00" width="25.33" height="100.33"/>
+    <Combo_4 x="50" y="0.00" width="25.33" height="100.33"/>
+    <Combo_5 x="33.33" y="0.00" width="25.33" height="100.33"/>
+    <Combo_6 x="41.67" y="0.00" width="25.33" height="100.33"/>
+    <Combo_7 x="33.33" y="0.00" width="33.67" height="100.33"/>
+    <Combo_8 x="25.00" y="0.00" width="33.67" height="100.33"/>
+    <Combo_9 x="41.67" y="0.00" width="33.67" height="100.33"/>
+    <Combo_10 x="25.00" y="0.00" width="42" height="100.33"/>
+    <Combo_11 x="33.33" y="0.00" width="42" height="100.33"/>
+    <Combo_12 x="25.00" y="0.00" width="50.33" height="100.33"/>
+    <Combo_13 x="0.00" y="0.00" width="100.00" height="100.33"/>
   </Sequence_5>
   <Sequence_6 NbCombo="7">
-    <Combo_0 x="75.00" y="0.00" width="25.00" height="100.00"/>
-    <Combo_1 x="66.67" y="0.00" width="33.33" height="100.00"/>
-    <Combo_2 x="58.00" y="0.00" width="42.00" height="100.00"/>
-    <Combo_3 x="50.00" y="0.00" width="50.00" height="100.00"/>
-    <Combo_4 x="41.67" y="0.00" width="58.33" height="100.00"/>
-    <Combo_5 x="33.33" y="0.00" width="66.67" height="100.00"/>
-    <Combo_6 x="25.00" y="0.00" width="75.00" height="100.00"/>
+    <Combo_0 x="75.00" y="0.00" width="25.00" height="100.33"/>
+    <Combo_1 x="66.67" y="0.00" width="33.33" height="100.33"/>
+    <Combo_2 x="58.33" y="0.00" width="41.67" height="100.33"/>
+    <Combo_3 x="50.00" y="0.00" width="50.00" height="100.33"/>
+    <Combo_4 x="41.67" y="0.00" width="58.33" height="100.33"/>
+    <Combo_5 x="33.33" y="0.00" width="66.67" height="100.33"/>
+    <Combo_6 x="25.00" y="0.00" width="75.00" height="100.33"/>
   </Sequence_6>
   <Sequence_7 NbCombo="7">
-    <Combo_0 x="0.00" y="0.00" width="25.00" height="50.00"/>
-    <Combo_1 x="0.00" y="0.00" width="33.33" height="50.00"/>
-    <Combo_2 x="0.00" y="0.00" width="41.67" height="50.00"/>
-    <Combo_3 x="0.00" y="0.00" width="50.00" height="50.00"/>
-    <Combo_4 x="0.00" y="0.00" width="58.33" height="50.00"/>
-    <Combo_5 x="0.00" y="0.00" width="66.67" height="50.00"/>
-    <Combo_6 x="0.00" y="0.00" width="75.00" height="50.00"/>
+    <Combo_0 x="0.00" y="0.00" width="25.33" height="50.33"/>
+    <Combo_1 x="0.00" y="0.00" width="33.67" height="50.33"/>
+    <Combo_2 x="0.00" y="0.00" width="42" height="50.33"/>
+    <Combo_3 x="0.00" y="0.00" width="50.33" height="50.33"/>
+    <Combo_4 x="0.00" y="0.00" width="58.67" height="50.33"/>
+    <Combo_5 x="0.00" y="0.00" width="67" height="50.33"/>
+    <Combo_6 x="0.00" y="0.00" width="75.33" height="50.33"/>
   </Sequence_7>
   <Sequence_8 NbCombo="14">
-    <Combo_0 x="41.33" y="0.00" width="17.33" height="50.00"/>
-    <Combo_1 x="33.33" y="0.00" width="17.33" height="50.00"/>
-    <Combo_2 x="49.50" y="0.00" width="17.77" height="50.00"/>
-    <Combo_3 x="25.00" y="0.00" width="25.00" height="50.00"/>
-    <Combo_4 x="50.00" y="0.00" width="25.00" height="50.00"/>
-    <Combo_5 x="33.33" y="0.00" width="25.00" height="50.00"/>
-    <Combo_6 x="41.67" y="0.00" width="25.00" height="50.00"/>
-    <Combo_7 x="33.33" y="0.00" width="33.33" height="50.00"/>
-    <Combo_8 x="25.00" y="0.00" width="33.33" height="50.00"/>
-    <Combo_9 x="41.67" y="0.00" width="33.33" height="50.00"/>
-    <Combo_10 x="25.00" y="0.00" width="41.67" height="50.00"/>
-    <Combo_11 x="33.33" y="0.00" width="41.67" height="50.00"/>
-    <Combo_12 x="25.00" y="0.00" width="50.00" height="50.00"/>
-    <Combo_13 x="0.00" y="0.00" width="100.00" height="50.00"/>
+    <Combo_0 x="41.67" y="0.00" width="17" height="50.33"/>
+    <Combo_1 x="33.33" y="0.00" width="17" height="50.33"/>
+    <Combo_2 x="50" y="0.00" width="17" height="50.33"/>
+    <Combo_3 x="25" y="0.00" width="25.33" height="50.33"/>
+    <Combo_4 x="50" y="0.00" width="25.33" height="50.33"/>
+    <Combo_5 x="33.33" y="0.00" width="25.33" height="50.33"/>
+    <Combo_6 x="41.67" y="0.00" width="25.33" height="50.33"/>
+    <Combo_7 x="33.33" y="0.00" width="33.67" height="50.33"/>
+    <Combo_8 x="25.00" y="0.00" width="33.67" height="50.33"/>
+    <Combo_9 x="41.67" y="0.00" width="33.67" height="50.33"/>
+    <Combo_10 x="25.00" y="0.00" width="42" height="50.33"/>
+    <Combo_11 x="33.33" y="0.00" width="42" height="50.33"/>
+    <Combo_12 x="25.00" y="0.00" width="50.33" height="50.33"/>
+    <Combo_13 x="0.00" y="0.00" width="100.00" height="50.33"/>
   </Sequence_8>
   <Sequence_9 NbCombo="7">
-    <Combo_0 x="75.00" y="0.00" width="25.00" height="50.00"/>
-    <Combo_1 x="66.67" y="0.00" width="33.33" height="50.00"/>
-    <Combo_2 x="58.33" y="0.00" width="41.67" height="50.00"/>
-    <Combo_3 x="50.00" y="0.00" width="50.00" height="50.00"/>
-    <Combo_4 x="41.67" y="0.00" width="58.33" height="50.00"/>
-    <Combo_5 x="33.33" y="0.00" width="66.67" height="50.00"/>
-    <Combo_6 x="25.00" y="0.00" width="75.00" height="50.00"/>
+    <Combo_0 x="75.00" y="0.00" width="25.00" height="50.33"/>
+    <Combo_1 x="66.67" y="0.00" width="33.33" height="50.33"/>
+    <Combo_2 x="58.33" y="0.00" width="41.67" height="50.33"/>
+    <Combo_3 x="50.00" y="0.00" width="50.00" height="50.33"/>
+    <Combo_4 x="41.67" y="0.00" width="58.33" height="50.33"/>
+    <Combo_5 x="33.33" y="0.00" width="66.67" height="50.33"/>
+    <Combo_6 x="25.00" y="0.00" width="75.00" height="50.33"/>
   </Sequence_9>
 </LayoutManager>
